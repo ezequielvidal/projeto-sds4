@@ -1,0 +1,1 @@
+Esta aplicação mostra um dashboard de vendas e é uma amostra de meus conhecimentos. Este projeto foi desenvolvido com Spring e React e está disponível no link: https://dashboard-vendas-ezequiel.netlify.app
